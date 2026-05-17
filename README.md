@@ -1,1 +1,2 @@
-# AI_article_
+Zadanie na studia z przedmiotu 'Narzędzia do automatyzacji budowy oprogramowania'.
+
